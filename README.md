@@ -1,2 +1,0 @@
-# cochineal-red
-Capstone Project
